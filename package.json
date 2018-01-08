@@ -1,0 +1,27 @@
+{
+  "name": "selfbot",
+  "version": "1.0.0",
+  "description": "l0l0l",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FHGDev/JSHulkbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "FHGDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FHGDev/JSHulkbot/issues"
+  },
+  "homepage": "https://github.com/FHGDev/JSHulkbot#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "ms": "^2.1.1",
+    "discord.js": "^11.2.1"
+  }
+}
